@@ -1,8 +1,8 @@
 <template>
   <div>
-    <h1>DES Encryption Example</h1>
+    <h1>Djnuewifrehf</h1>
     <div>
-      <label for="inputText">Input Text:</label>
+      <label for="inputText">dsfdsf Text:</label>
       <input type="text" v-model="inputText" id="inputText" />
     </div>
     <div>
