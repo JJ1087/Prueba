@@ -1,6 +1,13 @@
 <template>
   <div>
-    <h1>DES Encryption Example</h1>
+    <h1>DES Encryption Example Alan</h1>
+
+    <div>
+      <input type="text">
+      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta praesentium modi a accusantium molestiae quia deleniti, nam aperiam quae laborum, doloremque tenetur, totam vel. Modi id quibusdam enim doloremque sequi?</p>
+      <button>Enviar
+      </button>
+    </div>
     <div>
       <label for="inputText">Input Text:</label>
       <input type="text" v-model="inputText" id="inputText" />
